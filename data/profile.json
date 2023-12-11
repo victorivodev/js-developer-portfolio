@@ -1,0 +1,61 @@
+{
+    "name": "Victor Ivo de Souza",
+    "photo": "https://avatars.githubusercontent.com/u/89182990?v=4",
+    "job": "Analista de Sistemas I",
+    "location": "São Paulo - SP",
+    "phone": "(11) 94399-6829",
+    "email": "victorivo.comercial@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+            "name": "React",
+            "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        },
+        {
+          "name": "PHP",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+        },
+        {
+          "name": "MySQL",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        }
+      ],
+      "softSkills": [
+        "Comunicação eficaz",
+        "Organização",
+        "Trabalho em equipe",
+        "Alta capacidade de adaptação"
+        ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Avançado)"
+    ],
+    "portfolio": [
+      {
+        "name": "Projeto utilizando HTML, CSS e Javascript para criação de uma Pokedex com uso de API",
+        "url": "https://github.com/victorivodev/js-developer-pokedex",
+        "github": true
+      },
+      {
+        "name": "Aplicação de uma Calculadora simples utilizando HTML, CSS e Javascript",
+        "url": "https://github.com/victorivodev/calculadora",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Estagiário de TI / Suhai Seguradora",
+        "period": "Nov 2021 - Nov 2023",
+        "description": "Experiência em MSSQL e SQL Server (procedures), APIs na Digibee, suporte ao usuário no Jira Software, documentação em Confluence, implantação de melhorias no ERP I4PRO, gerenciamento de tarefas com Kanban."
+      }
+    ]
+  }
